@@ -1,0 +1,5 @@
+node_modules/
+.next/
+app.zip
+.env*
+log.html
